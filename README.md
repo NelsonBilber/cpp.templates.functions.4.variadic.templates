@@ -1,1 +1,5 @@
-# cpp.templates.functions.4.variadic.templates
+# C++ Templates
+
+**Functions**
+
+Variadic Templates
